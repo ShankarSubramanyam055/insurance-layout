@@ -778,7 +778,7 @@ footer .footer-heading{
 footer .col-1{
 	margin:0 2% 0 0;
 	width:66%;
-	max-width:858px;
+	max-width:1063px;
 	float:left;
 	overflow:hidden;
 }
@@ -810,7 +810,7 @@ footer .col-1 li:nth-child(2){
 
 footer .col-2{
 	width:32%;
-	max-width:416px;
+	max-width:515px;
 	float:left;
 	overflow:hidden;
 }

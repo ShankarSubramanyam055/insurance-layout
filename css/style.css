@@ -191,7 +191,9 @@ header #menubar a#logo{
 	max-width:152px;
 	max-height:29px;
 	background:url(../images/logo.png) no-repeat;
-	background-size:cover;
+	background-size:contain;
+	-moz-background-size:contain;
+	-webkit-background-size:contain;
 	display:inline-block;
 	text-decoration:none;
 }
